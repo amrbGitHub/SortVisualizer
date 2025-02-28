@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Desktop\repos\SortVisualizer\main.cpp(30,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SortVisualizer.vcxproj -> D:\Desktop\repos\SortVisualizer\x64\Debug\SortVisualizer.exe
