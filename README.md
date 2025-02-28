@@ -3,6 +3,7 @@
 Visualizing an insertion sorting algorithm with the SDL3 library for C++.
 
 Time Complexity: O(n^2)
+
 Space Complexity: O(1)
 
 This visualizer can also be applied to other sorting algorithms such as bubble, selection etc.
